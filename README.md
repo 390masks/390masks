@@ -1,4 +1,4 @@
-![Header](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # 👋 Hey there, I'm Abhinav!
 
@@ -36,13 +36,13 @@ I'm a passionate **Frontend Developer** and **Ethical Hacker** who loves craftin
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav&layout=compact&theme=radical)
+![Tech Skills](https://skillicons.dev/icons?i=js,react,tailwind,python,mysql,html,css,linux)
 
 ---
 
 ### 🔥 My Coding Journey
 
-![Coding GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 I enjoy pushing my limits, whether it's crafting beautiful UIs with React and Tailwind or diving into cybersecurity challenges using Kali Linux and ethical hacking tools. My journey involves building open-source projects, contributing to the developer community, and sharing my insights on **HackVerse**.
 
@@ -58,5 +58,4 @@ I enjoy pushing my limits, whether it's crafting beautiful UIs with React and Ta
 
 > "Stay curious, keep hacking, and code like there's no tomorrow!" 🚀
 
-![Footer GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
